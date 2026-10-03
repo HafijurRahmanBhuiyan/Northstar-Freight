@@ -1,0 +1,6 @@
+{
+  "name": "Northstar Freight",
+  "description": "Premium global freight forwarding and multimodal logistics solutions with coordinated scrollytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
